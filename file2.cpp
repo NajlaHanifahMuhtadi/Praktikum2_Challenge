@@ -14,5 +14,5 @@ float luas (float jari_jari, float phi){
 }
 
 void akhir (){
-   
+   cout << "Hasil luas untuk lingkaran dengan jari jari " << jariJari << " adalah = " <<luas (jariJari,phi);
 }
