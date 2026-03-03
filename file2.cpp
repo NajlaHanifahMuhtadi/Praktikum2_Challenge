@@ -12,3 +12,7 @@ void awal(){
 float luas (float jari_jari, float phi){
     return phi * jariJari * jariJari;
 }
+
+void akhir (){
+   
+}
