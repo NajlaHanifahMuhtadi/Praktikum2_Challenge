@@ -18,5 +18,6 @@ void akhir (){
 }
 
 int main(){
-
+    awal();
+    akhir();
 }
